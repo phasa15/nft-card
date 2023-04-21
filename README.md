@@ -1,9 +1,11 @@
 # Projeto NFT card
 
+
+Um projeto de um cartão NFT para estudos e portifólio.
+
 <br>
 <br>
 
-Um projeto de um cartão NFT para estudos e portifólio.
 
 <div align="center"> 
 
