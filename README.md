@@ -2,7 +2,7 @@
 
 Um projeto de um cartão NFT para estudos e portifólio.
 
-<img src="./src/screenshots/iPhone-XR-414x896" alt="Screenshot do NFT card no iPhone XR">
+![iPad-768x1024](https://user-images.githubusercontent.com/70813102/233705178-085aa7b1-3b96-4637-b41f-d3e5479583e9.png)
 
 ![iPhone-XR-414x896](https://user-images.githubusercontent.com/70813102/233705089-07e8974b-49a2-4814-9a62-e53f22014aca.png)
 
