@@ -1,5 +1,8 @@
 # Projeto NFT card
 
+<br>
+<br>
+
 Um projeto de um cartão NFT para estudos e portifólio.
 
 <div align="center"> 
@@ -15,6 +18,7 @@ Um projeto de um cartão NFT para estudos e portifólio.
 ![Laptop-1440x900](https://user-images.githubusercontent.com/70813102/233704961-3c6c0e95-c1d9-45ad-ae65-a207186f6eab.png)
 
 </div>
+
 ## Tecnologias utilizadas
 
 - HTML
