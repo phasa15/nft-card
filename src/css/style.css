@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    color: var(--cor-letras);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--cor-main);
+}
+
+.cartao {
+    width: 355px;
+    height: 600px;
+    background-color: var(--cor-cartao);
+    padding: 23px;
+    border-radius: 15px;
+}
+
+.cartao .link {
+    color: var(--cor-padrao-link);
+}
+
+.cartao .caixa-titulo .link:hover,
+.cartao .criador .link:hover,
+.cartao .container-imagem-equilibrium .link:hover {
+    color: var(--cor-link-hover);
+    cursor: pointer;
+}
+
+.cartao .container-imagem-equilibrium {
+    height: 310px;
+    margin-bottom: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.cartao .container-imagem-equilibrium .equilibrium {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.cartao .container-imagem-equilibrium .link::before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: var(--cor-link-hover);
+    border-radius: 10px;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+
+.cartao .container-imagem-equilibrium .link::after {
+    position: absolute;
+    content: "";
+    background: url("../images/icon-view.svg") no-repeat center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+
+.cartao .container-imagem-equilibrium .link:hover::before {
+    opacity: 0.4;
+}
+
+.cartao .container-imagem-equilibrium .link:hover::after {
+    opacity: 1;
+}
+
+.cartao .caixa-titulo {
+    margin-bottom: 13px;
+    font-size: 24px;
+}
+
+.cartao .sobre {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 15px;
+
+}
+
+.cartao .informacoes-adicionais {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 17px;
+}
+
+.cartao .valor-eth {
+    display: flex;
+    align-items: center;
+    color: var(--cor-valor);
+}
+
+.cartao .valor-eth::before {
+    content: "";
+    background: url("../images/icon-ethereum.svg") no-repeat center;
+    width: 13px;
+    height: 19px;
+    margin-right: 7px;
+}
+
+.cartao .dias-restantes {
+    display: flex;
+    align-items: center;
+}
+
+.cartao .dias-restantes::before {
+    content: "";
+    background: url("../images/icon-clock.svg") no-repeat center;
+    width: 15px;
+    height: 15px;
+    margin-right: 7px;
+
+}
+
+
+.cartao .criador {
+    display: flex;
+    padding-top: 19px;
+    align-items: center;
+    border-top: solid 1px var(--cor-linha-separacao);
+}
+
+.cartao .criador .criado-por-link {
+    color: var(--cor-padrao-link);
+
+}
+
+.cartao .criador .imagem-criador {
+    width: 37px;
+    height: auto;
+    border: solid 1px white;
+    border-radius: 50%;
+    margin-right: 16px;
+}
