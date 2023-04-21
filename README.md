@@ -17,17 +17,16 @@ Um projeto de um cartão NFT para estudos e portifólio.
 
 1 - Abrir o projeto
 
+Acessar o link do [projeto](https://phasa15.github.io/nft-card/)
 
 
+### Autor
+---
 
-2 - Clone para o projeto
+ <sub><b>Pedro Henrique Aquino</sub>
 
-```
-git clone <url>
-```
 
-2 - Acesse a pasta do projeto
+Feito com ❤️ por Pedro Henrique Aquino 👋🏽 Entre em contato!
 
-```
-cd repositorio-com-readme
-```
+[![Twitter Badge](https://img.shields.io/badge/-@PedroAq48260600-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PedroAq48260600)](https://twitter.com/PedroAq48260600) [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-aquino-a56945162/)](https://www.linkedin.com/in/pedro-henrique-aquino-a56945162/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedroh_aquino@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroh_aquino@hotmail.com)](mailto:pedroh_aquino@hotmail.com)
