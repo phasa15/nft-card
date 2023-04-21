@@ -6,7 +6,7 @@ Um projeto de um cartão NFT para estudos e portifólio.
 
 <img src=".\src\screenshots\iPad-768x1024" alt="Screenshot do NFT card no iPad">
 
-![Laptop-1-1440x900](https://user-images.githubusercontent.com/70813102/233703782-85e8a7f5-43f1-4d16-98ae-b052eda3ab2e.png)
+![Laptop-1440x900](https://user-images.githubusercontent.com/70813102/233704961-3c6c0e95-c1d9-45ad-ae65-a207186f6eab.png)
 
 ## Tecnologias utilizadas
 
